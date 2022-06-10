@@ -1,35 +1,58 @@
 {
-  "Post": {
-    "cover": {
-      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
-    },
-    "title": {
-      "loremWords": {
-        "minLength": 5,
-        "maxLength": 20
+   "elements":[
+      {
+         "id":"43251-4d2e-bc95-f85052e8873a",
+         "internalId":"dsm. deployment: 26:26",
+         "name":"CRIconfiguration",
+		 "Production":false,
+		 "description":null,
+         "ruleAppName":"pathfinder",
+         "ruleAppVersion":"1.0",
+		 "snapshotMode":"Always",
+      },
+      {
+         "id":"84368444-3b08-4d2e-bc95-f85052e8873a",
+         "internalId":"brm. RuleProject: 26:26",
+         "name":"PathFinderConfiguration-Embedded",
+		 "Production":false,
+		 "description":null,
+         "ruleAppName":"pathfinder",
+         "ruleAppVersion":"1.0",
+		 "snapshotMode":"Always",
+		 },
+      {
+         "id":"124568c1-3b08-4d2e-bc95-f85052e8873a",
+         "internalId":"dsm. deployment: 526:426",
+         "name":"PathFinderCombinedConfiguration",
+		 "Production":false,
+		 "description":null,
+         "ruleAppName":"pathfinder",
+         "ruleAppVersion":"1.0",
+		 "snapshotMode":"Always",
+      },
+      {
+         "id":"786c6110-3b08-4d2e-bc95-f85052e8873a",
+         "internalId":"brm. RuleProject: 26:26",
+         "name":"CRIconfiguration",
+		 "Production":false,
+		 "description":null,
+         "ruleAppName":"pathfinder",
+         "ruleAppVersion":"1.0",
+		 "snapshotMode":"Always",
+      },
+      {
+         "id":"a1160415-3b08-4d2e-bc95-f85052e8873a",
+         "internalId":"brm. RuleProject: 498:434",
+         "name":"CRIconfiguration",
+		 "Production":false,
+		 "description":null,
+         "ruleAppName":"pathfinder",
+         "ruleAppVersion":"1.0",
+		 "snapshotMode":"Always",
       }
-    },
-    "body": {
-      "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
-      }
-    },
-    "tag": {
-      "string": [
-        "one",
-        "two",
-        "three"
-      ]
-    },
-    "isDraft": {
-      "boolean": {}
-    },
-    "createdAt": {
-      "dateTime": {
-        "min": "2010-01-01T00:00:00Z",
-        "max": "2020-12-31T23:59:59Z"
-      }
-    }
-  }
+      
+   ],
+   "totalCount":7,
+   "number":0,
+   "size":7
 }
