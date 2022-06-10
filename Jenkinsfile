@@ -77,3 +77,5 @@ pipeline {
         }
     }
 }
+
+    def response  = sh(script: "curl --location --request GET 'https://testsad.free.beeceptor.com/deployments'", returnStdout: true)
