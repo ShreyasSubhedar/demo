@@ -79,3 +79,8 @@ pipeline {
 }
 
     def response  = sh(script: "curl --location --request GET 'https://testsad.free.beeceptor.com/deployments'", returnStdout: true)
+
+
+curl --location --request GET 'https://testsad.free.beeceptor.com/' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Basic c2hyZXlhcy5zdWJoZWRhcjpBS0NwOGh6WGp6Y290Wkpxc2FRYlk0NnVQWllNemZZQ21aamFGY2lBcGJmcDZZQ3ZXSlluMVJMcDE5dHFLNkRBRjUyNFRIaG5S'
