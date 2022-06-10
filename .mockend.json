@@ -8,7 +8,7 @@
 		 "description":null,
          "ruleAppName":"pathfinder",
          "ruleAppVersion":"1.0",
-		 "snapshotMode":"Always",
+		 "snapshotMode":"Always"
       },
       {
          "id":"84368444-3b08-4d2e-bc95-f85052e8873a",
@@ -18,7 +18,7 @@
 		 "description":null,
          "ruleAppName":"pathfinder",
          "ruleAppVersion":"1.0",
-		 "snapshotMode":"Always",
+		 "snapshotMode":"Always"
 		 },
       {
          "id":"124568c1-3b08-4d2e-bc95-f85052e8873a",
@@ -28,7 +28,7 @@
 		 "description":null,
          "ruleAppName":"pathfinder",
          "ruleAppVersion":"1.0",
-		 "snapshotMode":"Always",
+		 "snapshotMode":"Always"
       },
       {
          "id":"786c6110-3b08-4d2e-bc95-f85052e8873a",
@@ -38,7 +38,7 @@
 		 "description":null,
          "ruleAppName":"pathfinder",
          "ruleAppVersion":"1.0",
-		 "snapshotMode":"Always",
+		 "snapshotMode":"Always"
       },
       {
          "id":"a1160415-3b08-4d2e-bc95-f85052e8873a",
@@ -48,7 +48,7 @@
 		 "description":null,
          "ruleAppName":"pathfinder",
          "ruleAppVersion":"1.0",
-		 "snapshotMode":"Always",
+		 "snapshotMode":"Always"
       }
       
    ],
