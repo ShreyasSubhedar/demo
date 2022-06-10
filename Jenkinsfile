@@ -60,3 +60,4 @@ pipeline {
         }
     }
 }
+build job: 'DEVOPS-jar-creation', parameters: [string(name: 'RULE_APP_NAME', value: "${RULE_APP_NAME}"), string(name: 'ID', value: "${DEPLOYMENT_ID}")]
